@@ -29,3 +29,11 @@ export default function ({ count }) {
     return <div> Mam { count } { cats[pl(count)] } </div>;
 }
 ```
+
+## Credits
+
+https://github.com/alexanderwallin/node-gettext/blob/master/lib/plurals.js
+
+## License
+
+MIT
