@@ -1,4 +1,4 @@
-# gettext-plurals
+# gettext-plurals [![Build Status](https://travis-ci.org/msn0/gettext-plurals.svg?branch=master)](http://travis-ci.org/msn0/gettext-plurals)
 
 This is an excerpt of [node-gettext](https://github.com/alexanderwallin/node-gettext)'s plural forms. Only Polish language is supported.
 
