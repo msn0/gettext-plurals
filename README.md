@@ -11,7 +11,7 @@ npm i --save gettext-plurals
 ## Example 1
 
 ```js
-const pl = require('gettext-plurals');
+const pl = require('gettext-plurals').pl;
 
 const cats = ['kot', 'koty', 'kotów'];
 
