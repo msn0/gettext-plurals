@@ -1,0 +1,20 @@
+{
+  "name": "gettext-plurals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msn0/gettext-plurals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msn0/gettext-plurals/issues"
+  },
+  "homepage": "https://github.com/msn0/gettext-plurals#readme"
+}
